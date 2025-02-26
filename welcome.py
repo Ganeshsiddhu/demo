@@ -1,0 +1,1 @@
+pirnt("Welcome to Python")
